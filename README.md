@@ -14,4 +14,5 @@
 |Dia|Estudos|
 | -------- | ----------------- |
 |1| Sintaxe em Java / Comandos de GitFlow |
+|2| GitFlow / branches e features |
 
