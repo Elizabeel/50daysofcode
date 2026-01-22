@@ -16,5 +16,6 @@
 |1| Sintaxe em Java / Comandos de GitFlow |
 |2| GitFlow / branches e features |
 |3| Operadores / features |
+|4| Modificadores de acessos / Getters e Setters |
 
 
