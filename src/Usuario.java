@@ -1,4 +1,4 @@
-package sintaxe;
+package src;
 
 public class Usuario {
 

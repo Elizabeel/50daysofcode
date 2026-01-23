@@ -1,4 +1,4 @@
-package sintaxe;
+package src;
 
 public class SimuladorDesconto {
     public static void main(String[] args) {
