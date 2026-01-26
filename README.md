@@ -16,7 +16,11 @@
 |1| Sintaxe em Java / Comandos de GitFlow |
 |2| GitFlow / branches e features |
 |3| Operadores / features |
-|4| Revisão / exercícios |
+|4| Modificadores de acessos / Getters e Setters |
+|5| Revisão / exercícios |
+|6| Atualizando o Readme |
+|7| Array e Listas |
+|8| Exercícios de estruturas |
 
 
 
